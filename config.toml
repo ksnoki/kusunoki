@@ -1,7 +1,7 @@
 baseurl = "https://makoto.pages.dev/"
-DefaultContentLanguage = "en"
+language = "ja"
 #DefaultContentLanguage = "ja"
-title = "Beautiful Hugo"
+title = "Makoto Kusunoki"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -14,10 +14,10 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Makoto Kusunoki" # Set a different text for the header on the home page
+#  homeTitle = "Makoto Kusunoki"
   subtitle = "Works and notes"
   mainSections = ["post","posts"]
-  logo = "img/avatar-icon.png" # Expecting square dimensions
+  logo = "img/icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
