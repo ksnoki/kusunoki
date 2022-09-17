@@ -1,0 +1,79 @@
+baseurl = "https://makoto.pages.dev/"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
+title = "Beautiful Hugo"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+#  homeTitle = "Makoto Kusunoki" # Set a different text for the header on the home page
+  subtitle = "Works and notes"
+  mainSections = ["post","posts"]
+  logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[Author]
+  name = "Makoto Kusunoki"
+  facebook = "kusunokiask"
+  twitter = "kusunokiask"
+  instagram = "makoto_kusunoki"
+
+[[menu.main]]
+    name = "News"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Profile"
+    url = "page/profile/"
+    weight = 2
+
+[[menu.main]]
+    name = "Gallery"
+    url = "page/gallery/"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 4
+
+[[menu.main]]
+    name = "Contact"
+    url = "page/contact/"
+    weight = 5
