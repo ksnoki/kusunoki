@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Makoto Kusunoki</title>
-    <link>https://makotokusunoki.com/page/</link>
+    <link>https://kusunoki.pages.dev/page/</link>
     <description>Recent content in Pages on Makoto Kusunoki</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://makotokusunoki.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://kusunoki.pages.dev/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://makotokusunoki.com/page/contact/</link>
+      <link>https://kusunoki.pages.dev/page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://makotokusunoki.com/page/contact/</guid>
+      <guid>https://kusunoki.pages.dev/page/contact/</guid>
       <description>お仕事のご依頼、お問い合わせなどがございましたら、下記のボタンをクリックし、応募フォームに必要事項をご記入ください。
 To transmit your inquiry, please click the button below and fill out the application form.
 CONTACT→</description>
@@ -18,10 +18,10 @@ CONTACT→</description>
     
     <item>
       <title>Gallery</title>
-      <link>https://makotokusunoki.com/page/gallery/</link>
+      <link>https://kusunoki.pages.dev/page/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://makotokusunoki.com/page/gallery/</guid>
+      <guid>https://kusunoki.pages.dev/page/gallery/</guid>
       <description>Momo
 遠くへ
 通り道
@@ -46,10 +46,10 @@ CONTACT→</description>
     
     <item>
       <title>Profile</title>
-      <link>https://makotokusunoki.com/page/profile/</link>
+      <link>https://kusunoki.pages.dev/page/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://makotokusunoki.com/page/profile/</guid>
+      <guid>https://kusunoki.pages.dev/page/profile/</guid>
       <description>略歴 1997　徳島県鳴門市生まれ
 2020　広島大学教育学部 第四類 造形芸術系コース卒業
 2021～　Grand Central Atelier 在籍中
