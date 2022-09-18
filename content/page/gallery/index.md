@@ -6,6 +6,8 @@ subtitle: 作品
 
 
 {{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" src="/img/2021_shells_2.jpg" caption="貝殻" alt="貝殻 / 2021 / 油彩・キャンバス / 各10.0×10.0㎝" >}}
+  {{< figure thumb="-thumb" src="/img/2021_shells_1.jpg" caption="貝殻" alt="貝殻 / 2021 / 油彩・キャンバスボード / 33.3×24.2㎝(F4)" >}}
   {{< figure thumb="-thumb" src="/img/2021_momo.jpg" caption="Momo" alt="Momo / 2021 / 油彩・キャンバスボード / 15.2×15.2㎝" >}}
   {{< figure thumb="-thumb" src="/img/2020_the_distance.jpg" caption="遠くへ" alt="遠くへ / 2020 / 油彩・キャンバス / 130.0×162.0㎝(F100)" >}}
   {{< figure thumb="-thumb" src="/img/2020_path.jpg" caption="通り道" alt="通り道 /  2020 / 油彩・キャンバス / 112.0×145.5㎝(F80)" >}}
