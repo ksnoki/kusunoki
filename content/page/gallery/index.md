@@ -6,8 +6,13 @@ subtitle: 作品
 
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" src="/img/2021_shells_2.jpg" caption="貝殻" alt="貝殻 / 2021 / 油彩・キャンバス / 各10.0×10.0㎝" >}}
-  {{< figure thumb="-thumb" src="/img/2021_shells_1.jpg" caption="貝殻" alt="貝殻 / 2021 / 油彩・キャンバスボード / 33.3×24.2㎝(F4)" >}}
+  {{< figure thumb="-thumb" src="/img/2022_a_white_road.jpg" caption="白い道" alt="白い道 / 2022 / 油彩・キャンバス / 16.0×22.0㎝(F1)" >}}
+  {{< figure thumb="-thumb" src="/img/2022_slight_view_of_the_sea.jpg" caption="少しだけ見える海" alt="少しだけ見える海 / 2022 / 油彩・紙 / 10.0×15.0㎝" >}}
+  {{< figure thumb="-thumb" src="/img/2022_an_entrance.jpg" caption="入り口" alt="入り口 / 2022 / 油彩・紙 / 10.0×15.0㎝" >}}
+  {{< figure thumb="-thumb" src="/img/2021_a_study_of_waves_2.jpg" caption="波の習作2" alt="波の習作2 / 2021 / 油彩・キャンバス / 各10.0×13.0㎝" >}}
+  {{< figure thumb="-thumb" src="/img/2021_a_study_of_waves_1.jpg" caption="波の習作1" alt="波の習作1 / 2021 / 油彩・キャンバス / 各10.0×13.0㎝" >}}
+  {{< figure thumb="-thumb" src="/img/2021_shells_2.jpg" caption="貝殻" alt="貝殻2 / 2021 / 油彩・キャンバス / 各10.0×10.0㎝" >}}
+  {{< figure thumb="-thumb" src="/img/2021_shells_1.jpg" caption="貝殻" alt="貝殻1 / 2021 / 油彩・キャンバスボード / 33.3×24.2㎝(F4)" >}}
   {{< figure thumb="-thumb" src="/img/2021_momo.jpg" caption="Momo" alt="Momo / 2021 / 油彩・キャンバスボード / 15.2×15.2㎝" >}}
   {{< figure thumb="-thumb" src="/img/2020_the_distance.jpg" caption="遠くへ" alt="遠くへ / 2020 / 油彩・キャンバス / 130.0×162.0㎝(F100)" >}}
   {{< figure thumb="-thumb" src="/img/2020_path.jpg" caption="通り道" alt="通り道 /  2020 / 油彩・キャンバス / 112.0×145.5㎝(F80)" >}}

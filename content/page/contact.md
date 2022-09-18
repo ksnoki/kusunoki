@@ -9,3 +9,5 @@ To transmit your inquiry, please click the button below and fill out the applica
 <div class="button">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDTDUgZzSzp5RLp2isicMjAmIjoExq7XuHR7Q1niP5bj7yeA/viewform?usp=sf_link" target="_blank">CONTACT→</a>
 </div>
+
+[Price List](price_list_makoto_kusunoki.pdf)
