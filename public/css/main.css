@@ -829,6 +829,31 @@ table tr td :last-child {
   margin-bottom: 0;
 }
 
+.contactButton {
+  margin: 10px 0 0;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+.contactButton a {
+  font-family: 'Noto Sans JP',
+    sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding: 10px 5px;
+  background: #FFF;
+  border-radius: 0;
+  color: #404040;
+  border: 1px solid #cacaca !important;
+}
+.contactButton a:hover,
+.contactBbutton a:focus{
+  color: #FFF;
+  background: #0085a1;
+  border: 1px solid #0085a1;
+}
+
 .button a {
   font-family: 'Noto Sans JP',
     sans-serif;
