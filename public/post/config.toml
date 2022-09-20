@@ -1,7 +1,7 @@
 audio = []
 date = '2006-01-02'
 description = 'Text about this post'
-images = ['post-cover.png']
+images = ['post-cover.jpg']
 series = []
 tags = []
 title = 'Post title'
