@@ -9,9 +9,10 @@ pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
+disqusShortname = "makotokusunoki-com"
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-#disqusShortname = "makotokusunoki-com"
+
 #googleAnalytics = "XXX"
 
 [Params]
