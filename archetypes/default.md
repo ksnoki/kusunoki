@@ -5,6 +5,7 @@ date: {{ .Date }}
 draft: true
 categories: [""]
 tags: ["","",""]
+image: /img/
 eyecatch: https://makotokusunoki.com/img/
 comment: true
 ---
