@@ -11,7 +11,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
+#disqusShortname = "makotokusunoki-com"
 #googleAnalytics = "XXX"
 
 [Params]
