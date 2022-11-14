@@ -59,9 +59,10 @@ unsafe= true
 
 [Author]
   name = "Makoto Kusunoki"
-  facebook = "kusunokiask"
   twitter = "kusunokiask"
   instagram = "makoto_kusunoki"
+  mastodon = "https://fedibird.com/@makotokusunoki"
+  facebook = "kusunokiask"
 
 [[menu.main]]
     name = "News"
