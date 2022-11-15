@@ -61,7 +61,6 @@ unsafe= true
   name = "Makoto Kusunoki"
   twitter = "kusunokiask"
   instagram = "makoto_kusunoki"
-  mastodon = "https://fedibird.com/@makotokusunoki"
   facebook = "kusunokiask"
 
 [[menu.main]]
