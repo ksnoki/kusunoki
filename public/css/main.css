@@ -86,6 +86,7 @@ a:focus {
 blockquote {
   color: #414141;
   font-style: italic;
+  background-color: rgb(240, 240, 240);
 }
 
 blockquote p:first-child {
