@@ -3,12 +3,16 @@ title: "xxx"
 subtitle: 
 date: {{ .Date }}
 draft: true
+toc: true
 categories: [""]
 tags: ["","",""]
 image: /img/
 eyecatch: https://makotokusunoki.com/img/
+bigimg: [{src: "/img/"}]
 comment: true
 ---
+
+{{< toc >}}
 
 ### 1. はじめに
 xxxx
