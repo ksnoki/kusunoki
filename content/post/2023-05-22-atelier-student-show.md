@@ -15,10 +15,11 @@ At [Salmagundi Club](https://salmagundi.org/)
 47 5th Ave, New York, NY 10003
 - Monday – Friday | 1:00 PM – 6:00 PM
 - Saturday – Sunday | 1:00 PM – 5:00 PM  
+
 Open to the public  
 Free to attend
 
-グランドセントラルアトリエの2022-23年度の学生作品の展示です。それぞれの生徒がその年に制作した作品のうち、選りすぐりの1～数点を展示しています。昨年は1年目のDrawing Yearの授業で描いた人物ドローイングを出品しました。今回はPainting Yearの授業で描いた人物ペインティングを1点出品しています。
+[グランドセントラルアトリエ](https://grandcentralatelier.org/)の2022-23年度の学生作品の展示です。それぞれの生徒がその年に制作した作品のうち、選りすぐりの1～数点を展示しています。昨年は1年目のDrawing Yearの授業で描いた人物ドローイングを出品しました。今回はPainting Yearの授業で描いた人物ペインティングを1点出品しています。
 
 {{< gallery caption-effect="fade" >}}
   {{< figure thumb="-thumb" src="/img/studentshow_2023_01.jpg" alt="会場の入り口から室内を写した写真" >}}
