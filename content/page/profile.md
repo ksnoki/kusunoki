@@ -4,27 +4,31 @@ subtitle: Makoto Kusunoki | 楠 真
 comments: false
 ---
 ## 略歴
-1997　徳島県鳴門市生まれ  
-2020　広島大学教育学部 第四類 造形芸術系コース卒業  
-2021～　[Grand Central Atelier](https://grandcentralatelier.org/ "Grand Central Atelier") 在籍中  
+- 1997　徳島県鳴門市生まれ  
+- 2020　広島大学教育学部 第四類 造形芸術系コース卒業  
+- 2021～　[Grand Central Atelier](https://grandcentralatelier.org/ "Grand Central Atelier") 在籍中  
 ## Biography
-1997　Born in Naruto City, Tokushima, Japan  
-2020　Graduated from Hiroshima University Faculty of Education, Program in Art Education  
-Currently studying at [Grand Central Atelier](https://grandcentralatelier.org/ "Grand Central Atelier") 
+- 1997　Born in Naruto City, Tokushima, Japan  
+- 2020　Graduated from Hiroshima University Faculty of Education, Program in Art Education  
+- Currently studying at [Grand Central Atelier](https://grandcentralatelier.org/ "Grand Central Atelier") 
 
 ---
 ## 主な展示歴
-2016-2019　こでまり展(広島大学)  
-2016-2019　秋美展(広島大学)  
-2018　個展「楠 明寿香 作品展 ―光のある風景―」(徳島市立図書館ギャラリー・ギャラリーカフェYue)  
-2019　2019年度 制作展(広島大学)  
-2020　第58回修了・卒業制作展(広島大学・広島県立美術館)  
+- 2016-2019　こでまり展(広島大学)  
+- 2016-2019　秋美展(広島大学)  
+- 2018　個展「楠 明寿香 作品展 ―光のある風景―」(徳島市立図書館ギャラリー・ギャラリーカフェYue)  
+- 2019　2019年度 制作展(広島大学)  
+- 2020　第58回修了・卒業制作展(広島大学・広島県立美術館)  
 ## Selected Exhibitions
-2016-2019　Summer Art Exhibition, Hiroshima University  
-2016-2019　Autumn Art Exhibition, Hiroshima University  
-2018　Solo exhibition "Views in the Light," Tokushima city library and Gallery Cafe Yue  
-2019　Art Exhibition, Hiroshima University  
-2020　Graduation Exhibition, Hiroshima University and Hiroshima City Museum  
+- 2016-2019　Summer Art Exhibition, Hiroshima University  
+- 2016-2019　Autumn Art Exhibition, Hiroshima University  
+- 2018　Solo exhibition "Views in the Light," Tokushima city library and Gallery Cafe Yue  
+- 2019　Art Exhibition, Hiroshima University  
+- 2020　Graduation Exhibition, Hiroshima University and Hiroshima City Museum  
+- 2022　[Grand Central Atelier Student Show](https://salmagundi.org/2022-grand-central-atelier/), Salmagundi Club(47 5th Ave, New York, NY 10003, 2022.05.02 - 05.14)
+- 2022　Group show, ["Dream space"](https://salmagundi.org/2022-2023-dream-space/), Salmagundi Club(47 5th Ave, New York, NY 10003, 2022.12.04 - 2023.01.15)
+- 2023　Grand Central Atelier Student Show, Salmagundi Club(47 5th Ave, New York, NY 10003, 2023.05.16 - 05.26)
+
 
 ---
 ## 主な受賞歴

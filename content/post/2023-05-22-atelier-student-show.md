@@ -1,5 +1,5 @@
 ---
-title: "Grand Central Atelier Student Show"
+title: "Grand Central Atelier Student Show 2023"
 subtitle: "2023.05.16 - 05.26"
 date: 2023-05-22
 draft: false
