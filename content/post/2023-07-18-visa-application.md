@@ -1,7 +1,7 @@
 ---
 title: "アメリカ留学のためにビザを取得する"
 subtitle: 
-date: 2023-07-18
+date: 2023-07-15
 draft: true
 toc: true
 categories: [""]
