@@ -1,7 +1,7 @@
 ---
 title: "アメリカ留学準備〈持ち物編〉"
 subtitle: 
-date: 2023-07-15
+date: 2023-07-16
 draft: true
 toc: true
 categories: [""]
