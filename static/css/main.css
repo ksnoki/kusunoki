@@ -893,6 +893,7 @@ h4.panel-title>span.badge {
 
 table {
   padding: 0;
+  width: 100%;
 }
 
 table tr {
@@ -910,11 +911,11 @@ table tr:nth-child(2n) {
 
 @media (prefers-color-scheme: dark) {
   table tr {
-    background-color: #181818;
+    background-color: #ffffff;
   }
 
   table tr:nth-child(2n) {
-    background-color: #303030
+    background-color: #ffffff
   }
 }
 
