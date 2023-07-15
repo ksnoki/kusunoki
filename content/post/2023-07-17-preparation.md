@@ -1,5 +1,5 @@
 ---
-title: "留学準備〈持ち物編〉"
+title: "アメリカ留学準備〈持ち物編〉"
 subtitle: 
 date: 2023-07-15
 draft: true
