@@ -1,5 +1,5 @@
 ---
-title: "アメリカ留学のためにビザを取得する"
+title: "アメリカ美術留学のためにM-1ビザを取得する"
 subtitle: 
 date: 2023-07-20
 draft: false
