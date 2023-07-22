@@ -64,7 +64,7 @@ unsafe= true
   facebook = "kusunokiask"
 
 [[menu.main]]
-    name = "News"
+    name = "Blog"
     url = ""
     weight = 1
 
