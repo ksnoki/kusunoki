@@ -1,6 +1,6 @@
 ---
 title: "マスターコピー 名画の模写"
-subtitle: "マスターコピー 名画の模写"
+subtitle: 
 date: 2023-09-07
 draft: false
 toc: true
