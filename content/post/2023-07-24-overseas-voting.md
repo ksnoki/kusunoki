@@ -40,6 +40,7 @@ comment: true
 
 10月に衆議院議員総選挙があることが分かっていたのですが、在外選挙人証が発行されるのは3か月の在留が確認でき次第とのことだったので、「今回は無理か～😭」と思い悲しんでいました。
 
+
 https://www.mofa.go.jp/mofaj/toko/senkyo/flow.html#:~:text=%E5%9C%A8%E5%A4%96%E9%81%B8%E6%8C%99%E4%BA%BA%E3%81%AE%E6%96%B9,%E5%8C%BA%E7%94%BA%E6%9D%91%E3%81%AE%E9%81%B8%E6%8C%99%E7%AE%A1%E7%90%86
 
 #### 2.2. 渡米 在留届提出　在外選挙人証を受け取るまで
@@ -64,7 +65,17 @@ https://www.mofa.go.jp/mofaj/toko/senkyo/flow.html#:~:text=%E5%9C%A8%E5%A4%96%E9
 投票所が設置されている部屋があり、
 投票用紙を日本に郵送するための封筒や投票用紙
 
+投票用紙の請求書に名前や在外選挙人証の番号を記入しました。その後、投票用紙と封筒をもらいます。
+
+投票用紙　候補者や政党が書いてある分厚いファイル
+
+投票用紙に記入したら、投票用紙を無記名の内封筒に入れて封をし、内封筒を自分の名前や選挙区名を記入した外封筒に入れて封をします。
+
 漢字を書くのが久しぶりで、見られながら封筒などに文字を書くのでとにかく緊張しました。
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_eqwr_g6ksc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### 3.2. 一時帰国中に投票
 
