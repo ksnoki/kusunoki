@@ -12,8 +12,8 @@ bigimg: [{src: "/img/castpainting_2022_12_07.jpg"}]
 comment: true
 ---
 
-アトリエの2年目(Painting Year)では「キャストペインティング（石膏像ペインティング）」に取り組みます。   
-1年目(Drawing Year)の授業では鉛筆で紙に石膏像を描きました。  
+アトリエの2年目（Painting Year）では「キャストペインティング（石膏像ペインティング）」に取り組みます。   
+1年目（Drawing Year）の授業では鉛筆で紙に石膏像を描きました。  
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://makotokusunoki.com/post/2022-12-10-atelier/" data-iframely-url="//iframely.net/RrgCt9L"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
@@ -46,7 +46,7 @@ This course continues the study from plaster casts and serves as an introduction
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.jerrysartarama.com/centurion-deluxe-oil-primed-linen-rolls" data-iframely-url="//iframely.net/2vFjFOU"></a></div></div><script async src="//iframely.net/embed.js"></script>  
 
-キャンバスは「centurion（センチュリオン）」というメーカーの、油絵用の非吸収性地のリネンキャンバスです。これをロールで購入し、キャンバスを張るたびに必要な分を切り取って使っています。  
+キャンバスは「Centurion（センチュリオン）」というメーカーの、油絵用の非吸収性地のリネンキャンバスです。これをロールで購入し、キャンバスを張るたびに必要な分を切り取って使っています。  
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.dickblick.com/products/blick-standard-stretcher-bars/" data-iframely-url="//iframely.net/zQVcCYk"></a></div></div><script async src="//iframely.net/embed.js"></script>
 キャンバスを張るための木枠は、いろんな長さの木枠のパーツが一本ずつバラ売りされているので、ほしい長さのものを4辺分買います。  
@@ -65,7 +65,7 @@ This course continues the study from plaster casts and serves as an introduction
   {{< figure thumb="-thumb" src="/img/castpainting_2022_09_20.jpg" caption="壁にかかった耳の石膏像とそれを鉛筆でデッサンしたもの。" >}}
   {{< figure thumb="-thumb" src="/img/castpainting_2022_09_21.jpg" caption="明度の変化を捉えて大まかに描いたポスタースタディ。" >}}
   {{< figure thumb="-thumb" src="/img/castpainting_2022_09_22.jpg" caption="デッサンをキャンバスに転写し、絵の具で描き始める。" >}}
-  {{< figure thumb="-thumb" src="/img/castpainting_2022_09_28.jpg" caption="耳全体が描けた。" >}}
+  {{< figure thumb="-thumb" src="/img/castpainting_2022_09_28.jpg" caption="ときどき真横から見てどの程度光源に面しているか（いないか）を確認しながら描く。耳全体が描けた。" >}}
   {{< figure thumb="-thumb" src="/img/castpainting_2022_09_29.jpg" caption="土台の部分を描いていく。" >}}
   {{< figure thumb="-thumb" src="/img/castpainting_2022_10_03.jpg" caption="土台の部分も描き終えた。" >}}
   {{< figure thumb="-thumb" src="/img/castpainting_2022_10_05_01.jpg" caption="薄く塗ったままにしておいた陰の部分を描き込む。" >}}
@@ -109,4 +109,4 @@ This course continues the study from plaster casts and serves as an introduction
 
 画像は授業で描いた人物画と人物画を描くときに使ったパレットです。パレット上には無彩色の明度の移り変わりのラインがあり、その下に明度や彩度、色相が少しずつ変化した混色エリアがあります。いろんな色の絵の具を使っていても明暗の移り変わりをしっかり意識しているのが伝わるでしょうか。
 
-このように、石膏像ペインティングの授業はその後につながる大切な経験だったのですが、明暗を捉えながら時間をかけて石膏像を描く中で石膏像の美しさを感じることができ、描くのが楽しかったです。みなさんも石膏像を描いてみてはいかがでしょうか。
+このように、石膏像ペインティングの授業はその後につながる大切な経験だったのですが、それと同時に、明暗を捉えながら時間をかけて石膏像を描く中で石膏像の美しさを感じることができ、描くのが楽しかったです。みなさんも石膏像を描いてみてはいかがでしょうか。
