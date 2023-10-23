@@ -29,7 +29,7 @@ comment: true
 This course continues the study from plaster casts and serves as an introduction to the medium of oil paint. Using GCA’s collection of features and heads, artists draw the cast, transfer the drawing to linen, and then paint in oil grisaille using a neutral palette of pre-mixed values. Continuing to think sculpturally, artists learn to model forms in light with the greater value range and speed that oil paint allows.  
 （引用）[Grand Central Atelier | Painting Year](https://grandcentralatelier.org/core-program/painting-year/)  
 
-*（翻訳）キャスト・ペインティング*  
+*（翻訳）キャストペインティング*  
 *このコースは石膏像からの学習を続け、油絵の具という画材への入門として役立ちます。GCAが所蔵する顔のパーツや頭部の石膏像を使い、アーティストたちは石膏像を描き、そのドローイングをリネンに転写し、あらかじめ調合されたニュートラルなパレットを使って油彩のグリザイユで描きます。彫刻的な思考を続けながら、油絵の具が可能とするより広い明度の範囲・描くスピードにおいて、ライトの中で形状をモデリングすることを学びます。*　
 
 {{< gallery caption-effect="fade" >}}
