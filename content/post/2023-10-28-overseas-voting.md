@@ -6,15 +6,13 @@ draft: false
 toc: true
 categories: [""]
 tags: ["留学","留学準備"]
-image: /img/voting_20231011.jpg
-eyecatch: https://makotokusunoki.com/img/voting_20231011.jpg
-bigimg: [{src: "/img/voting_20231011.jpg"}]
+image: /img/triangle.jpg
+eyecatch: https://makotokusunoki.com/img/triangle.jpg
+bigimg: [{src: "/img/triangle.jpg"}]
 comment: true
 ---
 
 先日（2023年10月11日）、在ニューヨーク総領事館で参院徳島・高知選挙区補欠選挙の投票をしてきました。以前には2021年10月に領事館、2022年7月（一時帰国中）に地元の選挙管理委員会で投票していて、いずれも在外選挙人制度という制度を使っています。在外投票をするには手続きが必要なので、留学前にその手続きを行い、投票をすることができました。この文章では、自分が実際に行った手続きの流れと、アメリカ留学中と一時帰国中に投票した方法をまとめたいと思います。  
-
-{{< figure src="/img/voting_20231011.jpg" caption="領事館で投票するために必要なパスポートと在外選挙人証。写真に写っているのは選挙人証の裏面。投票した選挙の種類や投票日、投票場所が書かれている。">}}
 
 {{< toc >}}
 
