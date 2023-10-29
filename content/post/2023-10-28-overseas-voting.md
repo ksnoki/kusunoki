@@ -1,14 +1,14 @@
 ---
-title: "在外投票 留学中でも絶対投票したい!!"
+title: "在外投票 留学中でも投票したい!!"
 subtitle: 
 date: 2023-10-28
 draft: false
 toc: true
 categories: [""]
 tags: ["留学","留学準備"]
-image: /img/triangle.jpg
-eyecatch: https://makotokusunoki.com/img/triangle.jpg
-bigimg: [{src: "/img/triangle.jpg"}]
+image: /img/manhattan_20211023.jpg
+eyecatch: https://makotokusunoki.com/img/manhattan_20211023.jpg
+bigimg: [{src: "/img/manhattan_20211023.jpg"}]
 comment: true
 ---
 
