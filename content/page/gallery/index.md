@@ -6,6 +6,10 @@ subtitle: 作品
 
 
 {{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" src="/img/2023_portrait_mother.jpg" caption="Portrait of the Artist's Mother" alt="Portrait of the Artist's Mother / 2023 / 油彩・キャンバス / 6.0in×6.0in" >}}
+  {{< figure thumb="-thumb" src="/img/2023_portrait_father.jpg" caption="Portrait of the Artist's Mother" alt="Portrait of the Artist's Father / 2023 / 油彩・キャンバス / 6.0in×6.0in" >}}
+  {{< figure thumb="-thumb" src="/img/2022_portrait.jpg" caption="Portrait" alt="Portrait / 2022 / 油彩・キャンバスパネル / 6.0in×6.0in" >}}
+  {{< figure thumb="-thumb" src="/img/2022_slight_view_of_the_sea.jpg" caption="少しだけ見える海" alt="少しだけ見える海 / 2022 / 油彩・紙 / 10.0×15.0㎝" >}}
   {{< figure thumb="-thumb" src="/img/2022_a_white_road.jpg" caption="白い道" alt="白い道 / 2022 / 油彩・キャンバス / 16.0×22.0㎝(F1)" >}}
   {{< figure thumb="-thumb" src="/img/2022_slight_view_of_the_sea.jpg" caption="少しだけ見える海" alt="少しだけ見える海 / 2022 / 油彩・紙 / 10.0×15.0㎝" >}}
   {{< figure thumb="-thumb" src="/img/2022_an_entrance.jpg" caption="入り口" alt="入り口 / 2022 / 油彩・紙 / 10.0×15.0㎝" >}}

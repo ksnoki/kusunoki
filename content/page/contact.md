@@ -7,6 +7,6 @@ comments: false
   
 If you have a inquiry, please click the button below and fill out the inquiry form.  
 
-<div class="button">
+<div class="contactButton">
  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDTDUgZzSzp5RLp2isicMjAmIjoExq7XuHR7Q1niP5bj7yeA/viewform?usp=sf_link" target="_blank">CONTACT→</a>
 </div>  
