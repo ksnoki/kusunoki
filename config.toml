@@ -74,16 +74,23 @@ unsafe= true
     weight = 2
 
 [[menu.main]]
-    name = "Gallery"
-    url = "page/gallery/"
-    weight = 3
+    parent = "Gallery"
+    name = "Paintings"
+    url = "page/paintings/"
+    weight = 1
+
+[[menu.main]]
+    parent = "Gallery"
+    name = "Portraits"
+    url = "page/portraits/"
+    weight = 2
 
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     name = "Contact"
     url = "page/contact/"
-    weight = 5
+    weight = 4
