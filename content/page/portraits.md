@@ -1,7 +1,6 @@
 ---
 title: Portraits
 subtitle: 肖像画
-weight: 40
 menu: "main"
 ---
 

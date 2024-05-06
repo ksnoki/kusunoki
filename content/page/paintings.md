@@ -1,7 +1,6 @@
 ---
 title: Paintings
 subtitle: 作品
-weight: 30
 menu: "main"
 ---
 

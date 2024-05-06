@@ -66,31 +66,36 @@ unsafe= true
 [[menu.main]]
     name = "Blog"
     url = ""
-    weight = -10
+    weight = 1
 
 [[menu.main]]
     name = "Profile"
     url = "page/profile/"
-    weight = -20
+    weight = 2
 
 [[menu.main]]
-    parent = "Gallery"
+    identifier = "gallery"
+    name = "Gallery"
+    weight = 3
+
+[[menu.main]]
+    parent = "gallery"
     name = "Paintings"
     url = "page/paintings/"
-    weight = -30
+    weight = 1
 
 [[menu.main]]
-    parent = "Gallery"
+    parent = "gallery"
     name = "Portraits"
     url = "page/portraits/"
-    weight = -40
+    weight = 2
 
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 100
+    weight = 4
 
 [[menu.main]]
     name = "Contact"
     url = "page/contact/"
-    weight = 200
+    weight = 5
