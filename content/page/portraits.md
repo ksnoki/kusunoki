@@ -7,6 +7,8 @@ menu: "main"
 
 
 {{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" src="/img/2024_porteait_ike.jpg" caption="Ike" alt="Ike / 2024 / グラファイト・紙 /" >}}
+  {{< figure thumb="-thumb" src="/img/2024_portrait_betty.jpg" caption="Betty" alt="Betty / 2024 / グラファイト・紙 /" >}}
   {{< figure thumb="-thumb" src="/img/2024_portrait_Liz.jpg" caption="Liz" alt="Liz / 2024 / 油彩・キャンバス / 11×11 in" >}}
   {{< figure thumb="-thumb" src="/img/2024_portrait_Heidi.jpg" caption="Heidi" alt="Heidi / 2024 / 油彩・キャンバス / 12×10 in" >}}
   {{< figure thumb="-thumb" src="/img/2024_portrait_grandmother.jpg" caption="Grandmother" alt="Grandmother / 2024 / 油彩・キャンバス / 6×6 in" >}}

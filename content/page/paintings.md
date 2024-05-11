@@ -7,7 +7,15 @@ menu: "main"
 
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" src="/img/2022_a_white_road.jpg" caption="白い道" alt="白い道 / 2022 / 油彩・キャンバス / 16.0×22.0㎝(F1)" >}}
+  {{< figure thumb="-thumb" src="/img/2024_entrance_to_the_garden.jpg" caption="裏庭への入り口" alt="裏庭への入り口 / Entrance to the garden / 2024 / 油彩・キャンバス / 8×8 in" >}}
+  {{< figure thumb="-thumb" src="/img/2024_dreamscape.jpg" caption="夢の風景" alt="夢の風景 / Dreamscape / 2024 / 油彩・油彩用紙 / 4×6 in" >}}
+  {{< figure thumb="-thumb" src="/img/2024_spring_garden.jpg" caption="春の庭" alt="春の庭 / Spring garden / 2024 / 油彩・キャンバス / 4×4 in" >}}
+  {{< figure thumb="-thumb" src="/img/2024_two_paths.jpg" caption="ふたつの道" alt="ふたつの道 / Two paths / 2024 / 油彩・キャンバス / 8×8 in" >}}
+  {{< figure thumb="-thumb" src="/img/2024_landscape_tokushima.jpg" caption="風景（徳島）" alt="風景（徳島） /　Landscape(Tokushima) / 2024 / 油彩・キャンバス / 6×6 in" >}}
+  {{< figure thumb="-thumb" src="/img/2024_lotus_pond.jpg" caption="蓮のある池" alt="蓮のある池 / Lotus pond / 2024 / 油彩・キャンバス / 4×6 in" >}}
+  {{< figure thumb="-thumb" src="/img/2023_lotus_root_field.jpg" caption="れんこん畑" alt="れんこん畑 / Lotus root field / 2023 / 油彩・キャンバス / 4×6 in" >}}
+  {{< figure thumb="-thumb" src="/img/2023_in_the_distance.jpg" caption="あの向こうに" alt="あの向こうに / In the distance /2023 / 油彩・キャンバス / 4×6 in" >}}
+  {{< figure thumb="-thumb" src="/img/2022_a_white_road.jpg" caption="白い道" alt="白い道 / A white road / 2022 / 油彩・キャンバス / 16.0×22.0㎝(F1)" >}}
   {{< figure thumb="-thumb" src="/img/2022_slight_view_of_the_sea.jpg" caption="少しだけ見える海" alt="少しだけ見える海 / 2022 / 油彩・紙 / 10.0×15.0㎝" >}}
   {{< figure thumb="-thumb" src="/img/2022_an_entrance.jpg" caption="入り口" alt="入り口 / 2022 / 油彩・紙 / 10.0×15.0㎝" >}}
   {{< figure thumb="-thumb" src="/img/2021_a_study_of_waves_2.jpg" caption="波の習作2" alt="波の習作2 / 2021 / 油彩・キャンバス / 各10.0×13.0㎝" >}}
