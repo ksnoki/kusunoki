@@ -13,6 +13,7 @@
 {{< /gallery >}}
 
 <br>
+
 **Makoto Kusunoki Solo Exhibition "Garden"**
 
 - 【Date and time】
