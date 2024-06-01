@@ -3,10 +3,24 @@ title: Contact
 subtitle: お問い合わせ
 comments: false
 ---
-お仕事のご依頼、お問い合わせなどがございましたら、下記のボタンをクリックし、お問い合わせフォームに必要事項をご記入ください。 
+作品購入のご希望、制作のご依頼、お問い合わせなどがございましたら、以下の「CONTACT」ボタンをクリックし、お問い合わせフォームに必要事項をご記入ください。 
   
-If you have an inquiry, please click the button below and fill out the inquiry form.  
+If you would like to purchase or commission my paintings, or if you have any inquiries, please click the button below and fill out the contact form. 
 
 <div class="contactButton">
  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDTDUgZzSzp5RLp2isicMjAmIjoExq7XuHR7Q1niP5bj7yeA/viewform?usp=sf_link" target="_blank">CONTACT→</a>
 </div>  
+<br>
+<hr>
+If you would like to purchase or commission my paintings, the approximate prices are as follows.  
+
+| Size | Price |
+| ---- | ---- |
+| 4"× 4" | $250.00 |
+| 4"× 6" | $300.00 |
+| 5"× 5" | $400.00 |
+| 5"× 7" | $450.00 |
+| 6"× 6" | $500.00 |
+| 6"× 8" | $550.00 |
+| 8"× 8" | $600.00 |
+| 8"× 10" | $650.00 |

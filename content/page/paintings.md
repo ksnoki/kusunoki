@@ -10,11 +10,18 @@ menu: "main"
   {{< figure thumb="-thumb" src="/img/2024_entrance_to_the_garden.jpg" caption="裏庭への入り口" alt="裏庭への入り口 / Entrance to the garden / 2024 / 油彩・キャンバス / 8×8 in" >}}
   {{< figure thumb="-thumb" src="/img/2024_dreamscape.jpg" caption="夢の風景" alt="夢の風景 / Dreamscape / 2024 / 油彩・油彩用紙 / 4×6 in" >}}
   {{< figure thumb="-thumb" src="/img/2024_spring_garden.jpg" caption="春の庭" alt="春の庭 / Spring garden / 2024 / 油彩・キャンバス / 4×4 in" >}}
+  {{< figure thumb="-thumb" src="/img/2024_stairs_that_appear_only_once.jpg" caption="一度だけ現れる階段" alt="一度だけ現れる階段 / Stairs that appear only once / 2024 / 油彩・パネル / 6×6 in" >}}
   {{< figure thumb="-thumb" src="/img/2024_two_paths.jpg" caption="ふたつの道" alt="ふたつの道 / Two paths / 2024 / 油彩・キャンバス / 8×8 in" >}}
+  {{< figure thumb="-thumb" src="/img/2024_dream_of_the_greenhouse.jpg" caption="温室の夢" alt="温室の夢 / Dream of the greenhouse / 2024 / 油彩・パネル / 5×5 in" >}}
   {{< figure thumb="-thumb" src="/img/2024_landscape_tokushima.jpg" caption="風景（徳島）" alt="風景（徳島） /　Landscape(Tokushima) / 2024 / 油彩・キャンバス / 6×6 in" >}}
+  {{< figure thumb="-thumb" src="/img/2024_summer_garden.jpg" caption="夏の庭" alt="夏の庭 / Summer garden / 2024 / 油彩・キャンバス / 4×3 in" >}}
+  {{< figure thumb="-thumb" src="/img/2024_clouds.jpg" caption="風景（徳島）" alt="雲 / Clouds / 2024 / 紙・鉛筆 / 4×4 in" >}}
   {{< figure thumb="-thumb" src="/img/2024_lotus_pond.jpg" caption="蓮のある池" alt="蓮のある池 / Lotus pond / 2024 / 油彩・キャンバス / 4×6 in" >}}
   {{< figure thumb="-thumb" src="/img/2023_lotus_root_field.jpg" caption="れんこん畑" alt="れんこん畑 / Lotus root field / 2023 / 油彩・キャンバス / 4×6 in" >}}
   {{< figure thumb="-thumb" src="/img/2023_in_the_distance.jpg" caption="あの向こうに" alt="あの向こうに / In the distance /2023 / 油彩・キャンバス / 4×6 in" >}}
+  {{< figure thumb="-thumb" src="/img/2023_familiar_path.jpg" caption="なじみのある道" alt="なじみのある道 / Familiar path / 2023 / 油彩・キャンバス / 4×6 in" >}}
+  {{< figure thumb="-thumb" src="/img/2023_one_summer_scene.jpg" caption="夏の風景" alt="夏の風景 / One summer scene / 2023 / 油彩・キャンバス / 4×6 in" >}}
+  {{< figure thumb="-thumb" src="/img/2023_a_place_with_a little_light.jpg" caption="少し明るい場所" alt="少し明るい場所 / A place with a little light / 2023 / 油彩・キャンバス / 4×6 in" >}}
   {{< figure thumb="-thumb" src="/img/2022_a_white_road.jpg" caption="白い道" alt="白い道 / A white road / 2022 / 油彩・キャンバス / 16.0×22.0㎝(F1)" >}}
   {{< figure thumb="-thumb" src="/img/2022_slight_view_of_the_sea.jpg" caption="少しだけ見える海" alt="少しだけ見える海 / 2022 / 油彩・紙 / 10.0×15.0㎝" >}}
   {{< figure thumb="-thumb" src="/img/2022_an_entrance.jpg" caption="入り口" alt="入り口 / 2022 / 油彩・紙 / 10.0×15.0㎝" >}}

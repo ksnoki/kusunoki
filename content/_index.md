@@ -5,6 +5,13 @@
 作品や留学の記録などを更新していきます。
 <br>
 {{< figure src="/img/240601_makotokusunoki_garden.png" class="center" alt="2024 Solo Show Garden" width=500px >}}
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" src="/img/240601_1.jpg" alt="2024 Solo Show Garden" >}}
+  {{< figure thumb="-thumb" src="/img/240601_2.jpg" alt="2024 Solo Show Garden" >}}
+  {{< figure thumb="-thumb" src="/img/240601_3.jpg" alt="2024 Solo Show Garden" >}}
+{{< /gallery >}}
+
 <br>
 **Makoto Kusunoki Solo Exhibition "Garden"**
 
