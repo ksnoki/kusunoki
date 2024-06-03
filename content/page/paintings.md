@@ -8,7 +8,7 @@ menu: "main"
 
 {{< gallery caption-effect="fade" >}}
   {{< figure thumb="-thumb" src="/img/2024_entrance_to_the_garden.jpg" caption="裏庭への入り口" alt="裏庭への入り口 / Entrance to the garden / 2024 / 油彩・キャンバス / 8×8 in" >}}
-  {{< figure thumb="-thumb" src="/img/2024_dreamscape.jpg" caption="夢の風景" alt="夢の風景 / Dreamscape / 2024 / 油彩・油彩用紙 / 4×6 in" >}}
+  {{< figure thumb="-thumb" src="/img/2024_dreamscape.jpg" caption="夢の風景" alt="夢の風景 / Dreamscape / 2024 / 油彩・油彩用紙 / 4×6 in / sold" >}}
   {{< figure thumb="-thumb" src="/img/2024_spring_garden.jpg" caption="春の庭" alt="春の庭 / Spring garden / 2024 / 油彩・キャンバス / 4×4 in" >}}
   {{< figure thumb="-thumb" src="/img/2024_stairs_that_appear_only_once.jpg" caption="一度だけ現れる階段" alt="一度だけ現れる階段 / Stairs that appear only once / 2024 / 油彩・パネル / 6×6 in" >}}
   {{< figure thumb="-thumb" src="/img/2024_two_paths.jpg" caption="ふたつの道" alt="ふたつの道 / Two paths / 2024 / 油彩・キャンバス / 8×8 in" >}}

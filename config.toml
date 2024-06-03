@@ -91,6 +91,12 @@ unsafe= true
     weight = 2
 
 [[menu.main]]
+    parent = "gallery"
+    name = "Still lifes"
+    url = "page/still-life/"
+    weight = 3
+
+[[menu.main]]
     name = "Tags"
     url = "tags"
     weight = 4

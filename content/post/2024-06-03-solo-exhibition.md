@@ -1,14 +1,14 @@
 ---
 title: Photos from my exhibition "Garden"
 subtitle: 個展 "Garden" 会場写真
-date: 2024-06-02
+date: 2024-06-03
 draft: true
 toc: false
 categories: [""]
 tags: ["個展", "展示", "アトリエ", "留学"]
-image: /img/garden_2024_15.jpg
-eyecatch: https://makotokusunoki.com/img/garden_2024_15.jpg
-bigimg: [{src: "/img/garden_2024_15.jpg"}]
+image: /img/garden_2024_13.jpg
+eyecatch: https://makotokusunoki.com/img/garden_2024_13.jpg
+bigimg: [{src: "/img/garden_2024_13.jpg"}]
 comment: true
 ---
 
@@ -35,12 +35,14 @@ There are many things and places I want to paint when I go back to Japan. I look
   {{< figure thumb="-thumb" src="/img/garden_2024_03.jpg" alt="会場内。白い壁に小さめの風景画が複数展示されている。部屋の中央の机の上や部屋の隅の棚にも絵がある。" >}}
   {{< figure thumb="-thumb" src="/img/garden_2024_04.jpg" alt="白い壁に小さめの風景画が複数展示されている。部屋の中央の机の上や部屋の隅の棚にも絵がある。" >}}
   {{< figure thumb="-thumb" src="/img/garden_2024_05.jpg" alt="白い壁に小さめの風景画が複数展示されている。" >}}
-  {{< figure thumb="-thumb" src="/img/garden_2024_07.jpg" alt="大きなガラスの窓際の低い棚の上に風景画や人物画が飾られている。" >}}
   {{< figure thumb="-thumb" src="/img/garden_2024_06.jpg" alt="大きなガラスの窓際の低い棚の上に風景画や人物画が飾られている。" >}}
+  {{< figure thumb="-thumb" src="/img/garden_2024_07.jpg" alt="大きなガラスの窓際の低い棚の上に風景画や人物画が飾られている。" >}}
   {{< figure thumb="-thumb" src="/img/garden_2024_08.jpg" alt="部屋全体。" >}}
+  {{< figure thumb="-thumb" src="/img/garden_2024_09.jpg" alt="" >}}
+  {{< figure thumb="-thumb" src="/img/garden_2024_10.jpg" alt="" >}}
+  {{< figure thumb="-thumb" src="/img/garden_2024_11.jpg" alt="" >}}
   {{< figure thumb="-thumb" src="/img/garden_2024_12.jpg" alt="" >}}
   {{< figure thumb="-thumb" src="/img/garden_2024_13.jpg" alt="" >}}
   {{< figure thumb="-thumb" src="/img/garden_2024_14.jpg" alt="" >}}
   {{< figure thumb="-thumb" src="/img/garden_2024_15.jpg" alt="" >}}
-  {{< figure thumb="-thumb" src="/img/garden_2024_16.jpg" alt="" >}}
 {{< /gallery >}}
