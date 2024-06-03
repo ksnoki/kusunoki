@@ -27,8 +27,6 @@ menu: "main"
   {{< figure thumb="-thumb" src="/img/2022_an_entrance.jpg" caption="入り口" alt="入り口 / 2022 / 油彩・紙 / 10.0×15.0㎝" >}}
   {{< figure thumb="-thumb" src="/img/2021_a_study_of_waves_2.jpg" caption="波の習作2" alt="波の習作2 / 2021 / 油彩・キャンバス / 各10.0×13.0㎝" >}}
   {{< figure thumb="-thumb" src="/img/2021_a_study_of_waves_1.jpg" caption="波の習作1" alt="波の習作1 / 2021 / 油彩・キャンバス / 各10.0×13.0㎝" >}}
-  {{< figure thumb="-thumb" src="/img/2021_shells_2.jpg" caption="貝殻" alt="貝殻2 / 2021 / 油彩・キャンバス / 各10.0×10.0㎝" >}}
-  {{< figure thumb="-thumb" src="/img/2021_shells_1.jpg" caption="貝殻" alt="貝殻1 / 2021 / 油彩・キャンバスボード / 33.3×24.2㎝(F4)" >}}
   {{< figure thumb="-thumb" src="/img/2021_momo.jpg" caption="Momo" alt="Momo / 2021 / 油彩・キャンバスボード / 15.2×15.2㎝" >}}
   {{< figure thumb="-thumb" src="/img/2020_the_distance.jpg" caption="遠くへ" alt="遠くへ / 2020 / 油彩・キャンバス / 130.0×162.0㎝(F100)" >}}
   {{< figure thumb="-thumb" src="/img/2020_path.jpg" caption="通り道" alt="通り道 /  2020 / 油彩・キャンバス / 112.0×145.5㎝(F80)" >}}
@@ -50,3 +48,4 @@ menu: "main"
   {{< figure thumb="-thumb" src="/img/2017_an_old_man.jpg" caption="祖父" alt="祖父 / 2017 / 油彩・キャンバス / 22.7×15.8㎝(SM)" >}}
   {{< figure thumb="-thumb" src="/img/2017_a_country_road.jpg" caption="田舎の道" alt="田舎の道 / 2017 / 油彩・キャンバス / 33.3×24.2㎝(F4)" >}}
 {{< /gallery >}}
+
