@@ -14,7 +14,7 @@ comment: true
 
 My solo exhibition “Garden” in Brooklyn has ended successfully. Thank you to those who came to see that and supported me.  
 
-I felt that this gallery, with large windows and lots of natural light, suited the atmosphere of this exhibition. I am very happy that I was able to exhibit these works here. Also, displaying my paintings side by side in the gallery made me see what I have been pursuing in my paintings and what I want to paint in the future more clearly.   
+I felt that this gallery, with large windows and lots of natural light, suited the atmosphere of this exhibition. I am very happy that I was able to exhibit these works here. Also, displaying my paintings side by side in the gallery made me see what I have been pursuing in my paintings and what I want to paint more clearly.   
 
 There are many things and places I want to paint when I go back to Japan. I look forward to showing you more of my paintings in the future.  
 
@@ -38,9 +38,10 @@ There are many things and places I want to paint when I go back to Japan. I look
   {{< figure thumb="-thumb" src="/img/garden_202406_07.jpg" alt="花瓶に入った花が飾られている。" >}}
   {{< figure thumb="-thumb" src="/img/garden_202406_08.jpg" alt="テーブルの上に果物を描いた小さい静物画がある。" >}}
   {{< figure thumb="-thumb" src="/img/garden_202406_09.jpg" alt="棚に風景画が飾られている。" >}}
-  {{< figure thumb="-thumb" src="/img/garden_202406_10.jpg" alt="窓際に肖像画が飾られている。" >}}
   {{< figure thumb="-thumb" src="/img/garden_202406_11.jpg" alt="ギャラリーの室内に窓から日光が差し込んでいる。" >}}
+  {{< figure thumb="-thumb" src="/img/garden_202406_22.jpg" alt="窓際に肖像画が飾られている。" >}}
   {{< figure thumb="-thumb" src="/img/garden_202406_12.jpg" alt="ギャラリーの室内に窓から日光が差し込んでいる。作品がかかった壁に光が当たっている。" >}}
   {{< figure thumb="-thumb" src="/img/garden_202406_13.jpg" alt="ギャラリーの室内に窓から日光が差し込んでいる。作品がかかった壁に光が当たっている。" >}}
+  {{< figure thumb="-thumb" src="/img/garden_202406_15.jpg" alt="ギャラリーの室内に窓から日光が差し込んでいる。作品がかかった壁に光が当たっている。" >}}
   {{< figure thumb="-thumb" src="/img/garden_202406_14.jpg" alt="明るい室内。部屋の中央から入口側を見た写真。" >}}
 {{< /gallery >}}
