@@ -1,14 +1,16 @@
 ## About this site
 
 楠 真（Makoto Kusunoki）です。  
-ニューヨークのアトリエで伝統的な美術の勉強中です。
-作品や留学の記録などを更新していきます。
+作品やニューヨークのアトリエに留学中の記録などを更新していきます。
 <br>
 {{< figure src="/img/240601_makotokusunoki_garden.png" class="center" alt="2024 Solo Show Garden" width=500px >}}
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" src="/img/240601_1.jpg" alt="2024 Solo Show Garden" >}}
-  {{< figure thumb="-thumb" src="/img/240601_2.jpg" alt="2024 Solo Show Garden" >}}
+  {{< figure thumb="-thumb" src="/img/garden_202406_01.jpg" alt="2024 Solo Show Garden" >}}
+  {{< figure thumb="-thumb" src="/img/garden_202406_11.jpg" alt="2024 Solo Show Garden" >}}
+  {{< figure thumb="-thumb" src="/img/garden_202406_13.jpg" alt="2024 Solo Show Garden" >}}
+  {{< figure thumb="-thumb" src="/img/garden_202406_12.jpg" alt="2024 Solo Show Garden" >}}
+  {{< figure thumb="-thumb" src="/img/garden_202406_08.jpg" alt="2024 Solo Show Garden" >}}
   {{< figure thumb="-thumb" src="/img/240601_3.jpg" alt="2024 Solo Show Garden" >}}
 {{< /gallery >}}
 

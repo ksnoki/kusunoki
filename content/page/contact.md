@@ -9,18 +9,4 @@ If you would like to purchase or commission my paintings, or if you have any inq
 
 <div class="contactButton">
  <a href="https://docs.google.com/forms/d/e/1FAIpQLSf2_qi1jRuZKzOkvCyOuforcKeTtu8HzojWeeFUwTAJD2xUVQ/viewform?usp=sf_link" target="_blank">CONTACT→</a>
-</div>  
-<br>
-<hr>
-If you would like to purchase or commission my paintings, the approximate prices are as follows.  
-
-| Size | Price |
-| ---- | ---- |
-| 4"× 4" | $250.00 |
-| 4"× 6" | $300.00 |
-| 5"× 5" | $400.00 |
-| 5"× 7" | $450.00 |
-| 6"× 6" | $500.00 |
-| 6"× 8" | $550.00 |
-| 8"× 8" | $600.00 |
-| 8"× 10" | $650.00 |
+</div>
