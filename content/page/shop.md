@@ -3,6 +3,14 @@ title: Shop
 subtitle: 
 comments: false
 ---
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" src="/img/2024_entrance_to_the_garden.jpg" caption="裏庭への入り口" alt="裏庭への入り口 / Entrance to the garden / 2024 / oil on canvas / 8×8 in" >}}
+  {{< figure thumb="-thumb" src="/img/2023_portrait_father.jpg" caption="Portrait of the Artist's Father" alt="Portrait of the Artist's Father / 2023 / oil on canvas / 6×6 in" >}}
+  {{< figure thumb="-thumb" src="/img/2024_portrait_grandmother.jpg" caption="Grandmother" alt="Grandmother / 2024 / oil on canvas / 6×6 in" >}}
+  
+{{< /gallery >}}
+
+
 絵画の注文制作を承っています。  
 ご希望の題材（ペット、人物、風景など）のお写真があれば、参考にさせていただきます。ない場合はご希望をお伺いして制作いたします。  
 おおよその価格は以下の表の通りです。  
