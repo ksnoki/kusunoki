@@ -9,7 +9,7 @@ pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
-disqusShortname = "asukakusunoki-com"
+disqusShortname = "makotokusunoki-com"
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 
