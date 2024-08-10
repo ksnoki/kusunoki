@@ -1,5 +1,4 @@
 baseurl = "https://asukakusunoki.com/"
-aliases = "https://makotokusunoki.com/"
 DefaultContentLanguage = "en"
 title = "Asuka Kusunoki"
 theme = "beautifulhugo"
@@ -10,7 +9,7 @@ pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
-disqusShortname = "makotokusunoki-com"
+disqusShortname = "asukakusunoki-com"
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 
