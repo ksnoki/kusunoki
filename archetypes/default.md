@@ -7,7 +7,7 @@ toc: true
 categories: [""]
 tags: ["","",""]
 image: /img/
-eyecatch: https://makotokusunoki.com/img/
+eyecatch: https://asukakusunoki.com/img/
 bigimg: [{src: "/img/"}]
 comment: true
 ---
