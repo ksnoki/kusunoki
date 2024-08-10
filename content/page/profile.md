@@ -1,6 +1,6 @@
 ---
 title: Profile
-subtitle: Makoto Kusunoki | 楠 真
+subtitle: 楠 明寿香 | Asuka (Makoto) Kusunoki
 comments: false
 ---
 画家・イラストレーター  

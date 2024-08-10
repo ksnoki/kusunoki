@@ -1,6 +1,6 @@
 ## About this site
 
-楠 真（Makoto Kusunoki）です。  
+楠 明寿香（Asuka Kusunoki）です。  
 作品やニューヨークのアトリエに留学中の記録などを更新していきます。
 <br>
 {{< figure src="/img/240601_makotokusunoki_garden.png" class="center" alt="2024 Solo Show Garden" width=500px >}}
